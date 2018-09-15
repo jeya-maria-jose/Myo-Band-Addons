@@ -17,9 +17,3 @@ def onPeriodic():
 	print "Roll" ,p
 	print "Pitch" ,q
 	print "Yaw" ,r
-
-'''
-def onPoseEdge(pose, edge):
-	print("onPoseEdge: "+pose+", "+edge)
-	print myo.getArm()
-'''
